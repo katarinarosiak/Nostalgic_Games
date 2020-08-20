@@ -4,26 +4,74 @@
   background-color: white;
 }
 .pink {
-  background-color: #ff43d0;
+  /* background-color: #ff43d0; */
+   background: url("/home/katarina/Desktop/my-games/src/images/card1.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%;
+   width: 100%;
 }
 .red {
-  background-color: #ff0900;
+  /* background-color: #ff0900; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .orange {
-  background-color: #ff7f00;
+  /* background-color: #ff7f00; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .yellow {
-  background-color: #ffef00;
+  /* background-color: #ffef00; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .teal {
-  background-color: #63d3df;
+  /* background-color: #63d3df; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .green {
-  background-color: #00f11d;
+  /* background-color: #00f11d; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .blue {
-  background-color: #0079ff;
+  /* background-color: #0079ff; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
 .purple {
-  background-color: #a800ff;
+  /* background-color: #a800ff; */
+  background: url("/home/katarina/Desktop/my-games/src/images/card8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }

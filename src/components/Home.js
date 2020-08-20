@@ -1,7 +1,12 @@
+
 import React from "react";
 
 function Home() {
-  return (<div><h2>Welcome to Nostalgic Games with React.js</h2></div>)
+  return (
+    <div className="text-container">
+      <h2>Welcome to nostalgic games with React.js!</h2>
+    </div>
+  );
 }
 
 export default Home;
